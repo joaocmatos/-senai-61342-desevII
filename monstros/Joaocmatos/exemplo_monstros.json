@@ -1,0 +1,31 @@
+{
+    "monstros": [ 
+        {
+		    "nome": "juquinha",
+			"tipo": "fogo",
+			"pa": "7",
+			"pd": "3",
+			"pv": "8",
+			"evo": "1",
+			"nvl": "2"
+		},
+		{
+		    "nome": "huguinho",
+			"tipo": "fogo",
+			"pa": "7",
+			"pd": "3",
+			"pv": "8",
+			"evo": "1",
+			"nvl": "2"
+		},
+		{
+		    "nome": "zezinho",
+			"tipo": "fogo",
+			"pa": "7",
+			"pd": "3",
+			"pv": "8",
+			"evo": "1",
+			"nvl": "2"
+		}
+	]
+}
